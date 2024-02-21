@@ -8,7 +8,7 @@ public class Day1 {
 	@Test 
 	public void testm1() {
 	System.out.println("Day1-testm1");
-	
+	System.out.println("Day1File---editing from github");
 	}
 	@Test 
 	public void testm2() {
