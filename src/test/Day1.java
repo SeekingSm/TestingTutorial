@@ -12,7 +12,7 @@ public class Day1 {
 	}
 	@Test 
 	public void testm2() {
-	System.out.println("Day1-testm2");
+	System.out.println("Day1-testm2_testing maven jenkins git");
 	
 	}
 	@Test 
